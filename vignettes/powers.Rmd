@@ -1,0 +1,21 @@
+---
+title: "powers"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{powers}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(Powers)
+```
+
+Write a nice tutorial here for users to use your package. 
