@@ -10,3 +10,9 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 URL: https://github.com/marinawlevy/Powers
 BugReports: https://github.com/marinawlevy/Powers/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    dplyr,
+    ggplot2
